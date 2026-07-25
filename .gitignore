@@ -1,7 +1,6 @@
 `Scratched`
 
 ```bash
-# Command: wait [Number] second
 sleep $[Number]
 ```
 
